@@ -1,0 +1,89 @@
+==========================
+List of "enzyme" reactions
+==========================
+
+6.3.4.5
+ATP + L-Citrulline + L-Aspartate  => AMP + Diphosphate + N-(L-Arginino)succinate
+
+4.3.2.1
+N-(L-Arginino)succinate  => Fumarate + L-Arginine
+
+3.5.3.1
+L-Arginine + H2O  => L-Ornithine + Urea
+
+2.1.3.3
+Carbamoyl phosphate + L-Ornithine  => Orthophosphate + L-Citrulline
+
+1.14.13.39
+2 L-Arginine + 4 Oxygen + 3 NADPH + 3 H+ <=> 2 Nitric oxide + 2 L-Citrulline + 3 NADP+ + 4 H2O
+
+============================
+List of "exchange" reactions
+============================
+
+b1
+Carbamoyl phosphate (External) <=> Carbamoyl phosphate
+
+b2
+L-Aspartate (External) <=> L-Aspartate
+
+b3
+Fumarate <=> Fumarate (External)
+
+b4
+Urea <=> Urea (External)
+
+b5
+ATP (External) <=> ATP
+
+b6
+AMP <=> AMP (External)
+
+b7
+Diphosphate <=> Diphosphate (External)
+
+b8
+H2O (External) <=> H2O
+
+b9
+Nitric Oxide <=> Nitric Oxide (External)
+
+b10
+NADP <=> NADP (External)
+
+b11
+H2O <=> H2O (External)
+
+b12
+H+ (External) <=> Urea
+
+b13
+NADPH (External) <=> Urea
+
+b14
+Oxygen (External) <=> Urea
+
+b15
+Orthophosphate  <=> Orthophosphate (External)
+
+===============================================
+REACTANTS (in order of appearance in reactions)
+===============================================
+1. ATP
+2. L-Citrulline
+3. L-Aspartate
+4. AMP
+5. Diphosphate
+6. N-(L-Arginino)succinate
+7. Fumarate
+8. L-Arginine
+9. H2O
+10. L-Ornithine
+11. Urea
+12. Oxygen
+13. NADPH
+14. H+
+15. Nitric oxide
+16. NADP+
+17. Carbamoyl phosphate
+18. Orthophosphate
