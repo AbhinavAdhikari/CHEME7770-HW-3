@@ -1,4 +1,4 @@
-# CHEME7770-HW-3
+# CHEME7770-HW-3 Abhinav Adhikari
 
 **Part a**
 `data_dictionary.jl` file has the stoichiometric matrix
